@@ -10,7 +10,7 @@ const sgMail = require('@sendgrid/mail')
 // proxy.start();
 
 
-sgMail.setApiKey(process.env.mail_api_key);
+sgMail.setApiKey(process.env.MAIL_API_KEY);
 
 
 
