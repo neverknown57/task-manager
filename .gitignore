@@ -1,0 +1,10 @@
+node_modules
+
+# public directorie
+public
+
+# configi file
+config
+
+pg
+images
